@@ -1,8 +1,12 @@
 """Fixed program to determine score status, with function"""
 
+""" Author:jianan Wen
+    Date : 04/03/2020
+    link: https://github.com/jiananWen-1998/cp1404practical
+"""
 # Note boundary conditions (50 should be a pass, not > 50)
 # Note efficiency and nesting; use the fewest number of if/elif as possible
-"""https://github.com/jiananWen-1998/cp1404practical"""
+
 
 def main():
     """Get score and display"""

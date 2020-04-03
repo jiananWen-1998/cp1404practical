@@ -1,6 +1,9 @@
 """Get a password with minimum length and display asterisks"""
 
-"""https://github.com/jiananWen-1998/cp1404practical"""
+""" Author:jianan Wen
+    Date : 04/03/2020
+    link: https://github.com/jiananWen-1998/cp1404practical
+"""
 
 min_length = 4
 def main():

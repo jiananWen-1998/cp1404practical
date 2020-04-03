@@ -1,6 +1,11 @@
 """Temperature conversionsTemperature conversions"""
+
+""" Author:jianan Wen
+    Date : 04/03/2020
+    link: https://github.com/jiananWen-1998/cp1404practical
+"""
+
 # Note: this is a constant, so it is global, defined before main
-"""https://github.com/jiananWen-1998/cp1404practical"""
 
 list = """C - Convert Celsius to Fahrenheit
 F - Convert Fahrenheit to Celsius

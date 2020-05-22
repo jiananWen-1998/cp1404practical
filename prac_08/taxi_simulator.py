@@ -87,5 +87,5 @@ def run_tests():
     sst.drive(10)
     print(sst, sst.get_fare())
 
-
-main()
+if __name__ == '__main__':
+    main()
